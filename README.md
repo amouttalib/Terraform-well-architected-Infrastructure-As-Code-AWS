@@ -1,5 +1,5 @@
 # This is for the project to create a website using AWS, Python, Java, and SQL.
-
+blog: https://medium.com/@renrihui8415/7-aws-cloud-architecture-building-using-terraform-03-ec2-fleet-asg-tf-ca2303ed8a19
 # Architecture overview
 
 Please refer to _Architecture_Diagram_Website_with_AWS.png
